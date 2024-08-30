@@ -1,0 +1,15 @@
+body {
+    background-image: linear-gradient(to right bottom, #333333, #3e3d3e, #4b4648, #595050, #655b57, #736b63, #7f7c71, #8a8d81, #9ea69b, #b2c0b7, #c9dad5, #e1f4f3);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.desktop-guy {
+    border-radius: 25px;
+}
+
+.my-picture {
+    border-radius: 3%;
+}
+
